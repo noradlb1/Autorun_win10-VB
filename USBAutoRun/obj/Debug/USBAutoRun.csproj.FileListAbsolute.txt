@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\bin\Debug\USBAutoRun.exe.config
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\bin\Debug\USBAutoRun.exe
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\bin\Debug\USBAutoRun.pdb
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.MainForm.resources
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.exe
+C:\Users\MONSTERMC\Downloads\Autorun_win10-master\Autorun_win10-master\USBAutoRun\obj\Debug\USBAutoRun.pdb
